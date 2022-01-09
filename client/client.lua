@@ -24,6 +24,8 @@ local DRUGS_FOUND = false
 local FOLLOWING = true
 -- ^ DO NOT TOUCH THESE ^ --
 
+local QBCore = exports['qb-core']:GetCoreObject()
+
 
 --[[
 
