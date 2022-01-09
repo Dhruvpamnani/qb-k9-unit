@@ -1,3 +1,4 @@
+local QBCore = exports['qb-core']:GetCoreObject()
 
 RegisterServerEvent("K9:SERVER:SPAWN_K9")
 AddEventHandler("K9:SERVER:SPAWN_K9", function()
